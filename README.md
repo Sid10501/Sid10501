@@ -52,6 +52,7 @@
 
 ## Experience Snapshot
 
+- **Senior Software Engineer, PerfectServe** (2025-present)
 - **Co-Founder & Chief Product Officer, DYNE Technologies** (2021-2025)
 - **Cloud Engineering Analyst, Deloitte** (2022)
 - **Software Engineering Intern, Arista Networks** (2021)
@@ -69,7 +70,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sid10501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sid10501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sid10501&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
@@ -80,6 +81,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sid10501&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
 </p>
+
+---
+
+## Featured Public Repositories
+
+- [ai-agents-google](https://github.com/Sid10501/ai-agents-google) - production-ready AI agents intensive with working implementations and docs.
+- [NGO_Management_System](https://github.com/Sid10501/NGO_Management_System) - Java platform for NGO operations, scheduling, and volunteer management.
+- [CernSpaceWeb](https://github.com/Sid10501/CernSpaceWeb) - distributed computing hackathon project for shared compute contributions.
+- [Smart-Contacts-Solidity](https://github.com/Sid10501/Smart-Contacts-Solidity) - Web3 Solidity app and smart contract experimentation.
 
 ---
 
